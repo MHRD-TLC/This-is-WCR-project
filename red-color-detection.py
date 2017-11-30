@@ -6,6 +6,9 @@ eds16m007. This is a python script for red color detection.  */
 
 # this program tracks a red ball
 # (no motor control is performed to move the camera, we will get to that later in the tutorial)
+# Prerequisite of this program is that you have to have openCV installed on your system i.e. Raspberry pi
+# To install openCV on raspberry pi follow the following link :
+# https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
 
 import cv2
 import numpy as np
