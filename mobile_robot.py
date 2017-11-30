@@ -1,3 +1,4 @@
+
 /* 
 This section section involves python script for controlling a mobile robot using xbox 360. This is a subpart of a WCR for industrial 
 inspection project in TLC under the guidance of Dr. S. R. pandian and is being done by Amit Sharma, M.Des EDS 2016 batch, roll no. 
@@ -5,6 +6,7 @@ eds16m007.
 */
 
 # This program uses python script to control amobile robot using Microsoft xbox 360 remote.
+# Install xbox library from the following link : https://github.com/FRC4564/Xbox
 # It uses BCM configuration of the raspberry pi pins. 
 # Four DC motors have been used to control the motion of the robot.
 # For the four motors we need 8 pins for 8 different terminals of the used motors and one more pin for PWM for controlling the speed
